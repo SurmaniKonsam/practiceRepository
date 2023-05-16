@@ -8,7 +8,7 @@ I am about to add you in your current branch that is rough branch okay.
 have added space so will first push it from the roughBranch and merge into main of
 remote repository
 
-will checkout and then see into my local main whether its there or not
+merge conflicts point 3 -> adding garbage text
 
 if not i will pull from my remote + merge conflicts point 1 -> "also made changes here" 
 
