@@ -15,3 +15,18 @@ if not i will pull from my remote
 and again see.
 
 they way my practice will be over.
+
+
+So, yes i was successfull in merging into main from remote 
+
+checkout to my main and checked if the changes in the main from the remote is there or not
+
+it was not
+
+hence,
+	i git pull the main from the remote.
+	have already set upstream connection with the remote url
+	then did -> git pull
+	and,
+	then after the changes was observed into my file.
+
