@@ -10,9 +10,9 @@ remote repository
 
 will checkout and then see into my local main whether its there or not
 
-if not i will pull from my remote 
+if not i will pull from my remote + merge conflicts point 1 -> "also made changes here" 
 
-and again see.
+and again see/merge conflict point 2 -> " made update to observe merge conflicts".
 
 they way my practice will be over.
 
